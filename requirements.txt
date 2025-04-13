@@ -1,6 +1,5 @@
-flask
-opencv-python
-deepface
-tensorflow==2.6
-tf-keras
-
+flask              #for creating the web server and rendering HTML
+opencv-python      #for capturing images from your webcam
+deepface           #for facial emotion detection using pre-trained deep learning models
+tensorflow==2.6    #backend for DeepFace models (make sure the version is compatible)
+tf-keras           #compatibility layer needed by some face detection modules in DeepFace
