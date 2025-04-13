@@ -31,14 +31,17 @@ This project is an AI-powered web app that detects your **emotion through your w
 
 ---
 
-## 🎯 Emotion Mapping
+## 🔗 Emotion-to-Playlist Mapping
 
-| Emotion   | Playlist Example |
-|-----------|------------------|
-| Happy     | [Happy Vibes](https://open.spotify.com/playlist/37i9dQZF1DXdPec7aLTmlC)  
-| Sad       | [Sad Songs](https://open.spotify.com/playlist/37i9dQZF1DX7qK8ma5wgG1)  
-| Angry     | [Angry Mood](https://open.spotify.com/playlist/37i9dQZF1DWYxwmBaMqxsl)  
-| Neutral   | [Chill Hits](https://open.spotify.com/playlist/37i9dQZF1DX4WYpdgoIcn6)  
+| Emotion   | Playlist |
+|-----------|----------|
+| 😊 Happy     | [Happy Vibes](https://open.spotify.com/playlist/37i9dQZF1DXdPec7aLTmlC) |
+| 😢 Sad       | [Sad Songs](https://open.spotify.com/playlist/37i9dQZF1DX7qK8ma5wgG1) |
+| 😠 Angry     | [Angry Mood](https://open.spotify.com/playlist/37i9dQZF1DWYxwmBaMqxsl) |
+| 😲 Surprise  | [Surprise Soundtrack](https://open.spotify.com/playlist/37i9dQZF1DWTfrr8pte1rT) |
+| 😨 Fear      | [Calm Down](https://open.spotify.com/playlist/37i9dQZF1DX4sWSpwq3LiO) |
+| 🤢 Disgust   | [Cleanse Vibes](https://open.spotify.com/playlist/37i9dQZF1DX7gtIfGVzmkY) |
+| 😐 Neutral   | [Chill Hits](https://open.spotify.com/playlist/37i9dQZF1DX4WYpdgoIcn6) |
 
 ---
 
