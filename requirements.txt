@@ -1,1 +1,6 @@
+flask
+opencv-python
+deepface
+tensorflow==2.6
+tf-keras
 
